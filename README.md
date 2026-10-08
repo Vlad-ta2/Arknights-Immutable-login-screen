@@ -1,4 +1,4 @@
-# SDDM-theme Arknights Immutable Hud
+# Arknights Immutable Hud
 
 ```bash
 git clone https://github.com/Vlad-ta2/Arknights-Immutable-login-screen
