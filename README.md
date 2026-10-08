@@ -3,6 +3,6 @@ git clone https://github.com/Vlad-ta2/Arknights-theme-immutable
 
 cd Arknights-theme-immutable
 
-sudo chmod +x install.sh
+sudo chmod +x autoinstall.sh
 
-sudo ./install.sh
+sudo ./autoinstall.sh
